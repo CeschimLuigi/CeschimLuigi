@@ -1,10 +1,12 @@
-<div align="center" > 
-  <img  src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*baIU7PMpEKhUJdOyESoIPQ.jpeg">
-</div>
+
   
   
   <div align="center">
   <h1>Hello World 🌐, Luigi Ceschim aqui! 👋🏽</h1>
+</div>
+
+<div align="center" > 
+  <img  src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*baIU7PMpEKhUJdOyESoIPQ.jpeg">
 </div>
 
 
